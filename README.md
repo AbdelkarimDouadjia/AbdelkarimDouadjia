@@ -38,8 +38,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💫 About Me:
-🔭 I’m currently a Student<br>🤝 I’m looking for help with Software Engineers<br>🌱 I’m currently learning Software Engineer<br>💬 Ask me about Front-end<br>⚡ Fun fact
+
+<details open> 
+  <summary><h2>💫 About Me</h2></summary>
+<p> 
+ I am a highly motivated 🔭and ambitious computer science student🧑‍💻 currently in my second year at university Djillali Bounama. I have a passion⚡for software engineering 🚀 and am constantly seeking to expand my knowledge and skills in this field . Despite my lack of professional experience, I have demonstrated strong problem-solving abilities and a proactive attitude through various personal projects  and coursework. I am eager to apply my talents and abilities to real-world projects and make a positive impact in the industry.
+ </p>
+ </details>
 
 <img align="right"  alt="GIF" src="https://media.tenor.com/fA40mZBItgEAAAAC/shia-labeouf-magic.gif"  />
 
