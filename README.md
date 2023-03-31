@@ -1,4 +1,5 @@
 ### Hi there 👋
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=24&pause=1000&color=7BCFF7&center=true&vCenter=true&width=320&lines=Abdelkarim+Douadjia;Front-end+Developer;Computer+Science+Student+!;Always+learning+new+things!+" alt="Typing SVG" /></a>
 
 <!--
 **AbdelkarimDouadjia/AbdelkarimDouadjia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
