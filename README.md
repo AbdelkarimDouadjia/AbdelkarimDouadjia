@@ -41,6 +41,8 @@ Here are some ideas to get you started:
 # 💫 About Me:
 🔭 I’m currently a Student<br>🤝 I’m looking for help with Software Engineers<br>🌱 I’m currently learning Software Engineer<br>💬 Ask me about Front-end<br>⚡ Fun fact
 
+<img align="right"  alt="GIF" src="https://media.tenor.com/fA40mZBItgEAAAAC/shia-labeouf-magic.gif"  />
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/AbdelkarimDouadjia) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/AbdelkarimDouadjia) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdelkarim-douadjia-589789261) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21433830) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/KarimDouadjia) 
