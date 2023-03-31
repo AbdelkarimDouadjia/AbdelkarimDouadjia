@@ -1,5 +1,28 @@
-### Hi there 👋
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=24&pause=1000&color=7BCFF7&center=true&vCenter=true&width=320&lines=Abdelkarim+Douadjia;Front-end+Developer;Computer+Science+Student+!;Always+learning+new+things!+" alt="Typing SVG" /></a>
+<!--### Hi there 👋-->
+ <p align="center">
+  <a href="https://github.com/AbdelkarimDouadjia">
+<img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=24&duration=2&center=true&vCenter=true&repeat=false&width=320&lines=Abdelkarim+Douadjia" alt="Typing SVG" /></a>
+</p>
+
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/AbdelkarimDouadjia"><img src="https://readme-typing-svg.demolab.com?font=Exo&weight=500&size=24&pause=1000&center=true&vCenter=true&width=320&lines=Front-End+Developer;Computer+Science+Student+!;Always+learning+new+things!+" alt="Typing SVG" /></a>
+</p>
+
+
+
+
+
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdelkarimdouadjia/"><img src="https://img.icons8.com/material/48/228BE6/linkedin--v1.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.instagram.com/abdelkarimdouadjia/"><img src="https://img.icons8.com/material/48/228BE6/instagram-new--v1.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/KarimDouadjia" alt="Discord" title="Dev Pro Tips Discord Server"><img src="https://img.icons8.com/material/48/228BE6/twitter--v2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://stackoverflow.com/users/21433830/abdelkarim-douadjia?tab=profile"><img src="https://img.icons8.com/material/48/228BE6/stackoverflow.png"/></a>
+</p>
 
 <!--
 **AbdelkarimDouadjia/AbdelkarimDouadjia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
