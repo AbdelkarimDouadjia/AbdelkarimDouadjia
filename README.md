@@ -89,7 +89,7 @@
 
 
 <details> 
-  <summary><h2>📊 Github Stats and Activity</h2></summary>
+  <summary><h2>  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats and Activity </b></h2></summary>
 
   <h3>🔥 Streak Stats</h3>
  
@@ -147,6 +147,7 @@ Here are some ideas to get you started:
    <!-- ![GNU BASH](https://img.shields.io/badge/GNU%20Bash-000000?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) --> 
+<!-- 📊 Github Stats-->
 
   <!--## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/d.abdelkarim) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/abdelkarimdouadjia) -->
