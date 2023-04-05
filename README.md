@@ -24,8 +24,8 @@
 </p>
 
 
-## <picture><img src = "https://raw.githubusercontent.com/0xabdulkhalid/0xabdulkhalid/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-<picture> <img align="right" src="https://raw.githubusercontent.com/0xabdulkhalid/0xabdulkhalid/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+## <picture><img src = "./assets/Images/about_me.gif" width = 50px></picture> **About me**
+<picture> <img align="right" src="./assets/Images/Right_Side.gif" width = 250px></picture>
 <br>
 - A passionate Self-taught Software Engineering
 - Playing Fortnite at spare time
