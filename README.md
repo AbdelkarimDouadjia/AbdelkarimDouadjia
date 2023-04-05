@@ -27,7 +27,7 @@
 ## <picture><img src = "./assets/Images/about_me.gif" width = 50px></picture> **About me**
 <picture> <img align="right" src="./assets/Images/Right_Side.gif" width = 250px></picture>
 <br>
-- A passionate Self-taught Software Engineering
+- A passionate Self-taught Software Engineer
 - Playing Fortnite at spare time
 - Currently Student at University of Djillali Bounamaa
 - learning Web Development by Self⚡
