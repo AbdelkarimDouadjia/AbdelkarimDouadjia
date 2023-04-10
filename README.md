@@ -93,9 +93,10 @@
   <summary><h2>  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats and Activity </b></h2></summary>
 
   <h3>🔥 Streak Stats</h3>
+   <img src="http://studiopixel.in/wp-content/uploads/2017/11/senior-front-end-developer-openings-1.gif" alt="MarineGEO circle logo" width="40%" align="right">
  
 ![](https://github-readme-stats.vercel.app/api?username=AbdelkarimDouadjia&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<h3>💻 GitHub Profile Stats</h3>
-  <img src="http://studiopixel.in/wp-content/uploads/2017/11/senior-front-end-developer-openings-1.gif" alt="MarineGEO circle logo" width="40%" align="right">
+ 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AbdelkarimDouadjia&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelkarimDouadjia&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
  
