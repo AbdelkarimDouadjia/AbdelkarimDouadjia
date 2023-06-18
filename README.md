@@ -24,10 +24,10 @@
 </p>
 
 
-## <picture><img src = "https://raw.githubusercontent.com/0xabdulkhalid/0xabdulkhalid/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-<picture> <img align="right" src="https://raw.githubusercontent.com/0xabdulkhalid/0xabdulkhalid/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+## <picture><img src = "./assets/Images/about_me.gif" width = 50px></picture> **About me**
+<picture> <img align="right" src="./assets/Images/Right_Side.gif" width = 250px></picture>
 <br>
-- A passionate Self-taught Software Engineering
+- A passionate Self-taught Software Engineer
 - Playing Fortnite at spare time
 - Currently Student at University of Djillali Bounamaa
 - learning Web Development by Self⚡
@@ -57,6 +57,8 @@
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+   ![PHP](https://img.shields.io/badge/PHP%20-%23121011.svg?style=for-the-badge&logo=php&logoColor=white)
+   ![MYSQL](https://img.shields.io/badge/MYSQL%20-%2314354C.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 <br>
 
@@ -89,12 +91,13 @@
 
 
 <details> 
-  <summary><h2>📊 Github Stats and Activity</h2></summary>
+  <summary><h2>  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats and Activity </b></h2></summary>
 
   <h3>🔥 Streak Stats</h3>
+   <img src="http://studiopixel.in/wp-content/uploads/2017/11/senior-front-end-developer-openings-1.gif" alt="MarineGEO circle logo" width="40%" align="right">
  
 ![](https://github-readme-stats.vercel.app/api?username=AbdelkarimDouadjia&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<h3>💻 GitHub Profile Stats</h3>
-  <img src="http://studiopixel.in/wp-content/uploads/2017/11/senior-front-end-developer-openings-1.gif" alt="MarineGEO circle logo" width="40%" align="right">
+ 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AbdelkarimDouadjia&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelkarimDouadjia&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
  
@@ -147,6 +150,7 @@ Here are some ideas to get you started:
    <!-- ![GNU BASH](https://img.shields.io/badge/GNU%20Bash-000000?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) --> 
+<!-- 📊 Github Stats-->
 
   <!--## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/d.abdelkarim) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/abdelkarimdouadjia) -->
