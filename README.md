@@ -107,7 +107,7 @@
 
 </details>
 
-
+<!--![Snake animation](https://github.com/tassneemaltaf/tassneemaltaf/blob/output/github-contribution-grid-snake.svg)-->
 <br>
 <br>
 <br>
