@@ -92,9 +92,9 @@
 
 <details> 
   <summary><h2>  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats and Activity </b></h2></summary>
-
+<div  align='center'>
   <h3>🔥 Streak Stats</h3>
-   <img src="http://studiopixel.in/wp-content/uploads/2017/11/senior-front-end-developer-openings-1.gif" alt="MarineGEO circle logo" width="40%" align="right">
+   <!--<img src="http://studiopixel.in/wp-content/uploads/2017/11/senior-front-end-developer-openings-1.gif" alt="MarineGEO circle logo" width="40%" align="right">-->
  
 ![](https://github-readme-stats.vercel.app/api?username=AbdelkarimDouadjia&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<h3>💻 GitHub Profile Stats</h3>
  
@@ -104,7 +104,7 @@
 
   ---
 [![](https://visitcount.itsvg.in/api?id=AbdelkarimDouadjia&icon=0&color=0)](https://visitcount.itsvg.in)
-
+</div>
 </details>
 
 <!--![Snake animation](https://github.com/tassneemaltaf/tassneemaltaf/blob/output/github-contribution-grid-snake.svg)-->
@@ -114,7 +114,7 @@
 
 <div  align='center'>
 
-### <b style="font-size: 100px;" size= "7">السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
+### <b style="font-size: 100px;" size="7">السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
