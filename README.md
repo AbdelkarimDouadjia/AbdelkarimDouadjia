@@ -18,7 +18,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/abdelkarimdouadjia/"><img src="https://img.icons8.com/material/48/228BE6/instagram-new--v1.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/KarimDouadjia" alt="Discord" title="Dev Pro Tips Discord Server"><img src="https://img.icons8.com/material/48/228BE6/twitter--v2.png"/></a>
+  <a href="https://twitter.com/Abdelkarim_dev" alt="Discord" title="Dev Pro Tips Discord Server"><img src="https://img.icons8.com/material/48/228BE6/twitter--v2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://stackoverflow.com/users/21433830/abdelkarim-douadjia?tab=profile"><img src="https://img.icons8.com/material/48/228BE6/stackoverflow.png"/></a>
 </p>
