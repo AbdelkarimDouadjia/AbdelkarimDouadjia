@@ -29,7 +29,7 @@
 <br>
 - A passionate Self-taught Software Engineer
 - Playing Fortnite at spare time
-- Currently Student at University of Djillali Bounamaa
+- Currently Student at University of Paris Saclay
 - learning Web Development by Self⚡
 - I’m currently open for an Intern <!--or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)--> <!-- Personal website [link](https://www.)-->
 <br><br>
