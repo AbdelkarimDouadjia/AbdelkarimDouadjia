@@ -27,10 +27,10 @@
 ## <picture><img src = "./assets/Images/about_me.gif" width = 50px></picture> **About me**
 <picture> <img align="right" src="./assets/Images/Right_Side.gif" width = 250px></picture>
 <br>
-- A passionate Self-taught Software Engineer
+- A passionate Self-taught Software Engineer/ML Engineer
 - Playing Fortnite at spare time
 - Currently Student at University of Paris Saclay
-- learning Web Development by Self⚡
+- learning Web Development & AI by Self⚡
 - I’m currently open for an Intern <!--or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)--> <!-- Personal website [link](https://www.)-->
 <br><br>
 <!--
